@@ -1,0 +1,29 @@
+html {background-color: lightseagreen;}
+html {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.title {  
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 85px;
+}
+
+.list {   
+    text-align: left;
+    font-size: 22px;
+    color: lightskyblue;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.desc {
+    text-align: center;
+}
+
+.img.tbig {
+    height: 400px ;
+}
